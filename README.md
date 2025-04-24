@@ -9,7 +9,7 @@
 Let's Connect!
 
 - 📧 Email: manojkum.raju@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/raju-manoj-kumar [https://www.linkedin.com/in/raju-manoj-kumar]
-- 🐙 GitHub: github.com/rajumanojkumar [https://github.com/rajumanojkumar]
+- 💼 LinkedIn: [linkedin.com/in/raju-manoj-kumar] (https://www.linkedin.com/in/raju-manoj-kumar)
+- 🐙 GitHub: [github.com/rajumanojkumar] (https://github.com/rajumanojkumar)
 
 
