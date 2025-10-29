@@ -1,4 +1,5 @@
 👋 Hi, I'm Manoj Kumar R
+
 Data Scientist | Data & Business Analytics Professional
 
 Experienced data scientist with 6+ years of cross-functional expertise across e-commerce, market intelligence, and AI-driven operations. I specialize in data modeling, process optimization, and business intelligence that convert raw data into strategic insights.
