@@ -20,7 +20,9 @@ Python | SQL | Power BI | Tableau | Excel | Machine Learning | Statistical Model
 - Recognized for leadership, mentoring, and cross-functional collaboration driving global process excellence.
 
 📧 Email: manojkum.raju@gmail.com
+
 💼 LinkedIn: linkedin.com/in/raju-manoj-kumar
+
 🐙 GitHub: github.com/rajumanojkumar
 
 “Transforming complex data into actionable intelligence that drives business growth.”
